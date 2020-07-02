@@ -1,0 +1,14 @@
+{
+  "appId": "com.carrickpark.pubnubchatrtc",
+  "appName": "pubnubchatrtcionic",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "allowMixedContent": true,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

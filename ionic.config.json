@@ -1,0 +1,7 @@
+{
+  "name": "pubnubchatrtcionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
