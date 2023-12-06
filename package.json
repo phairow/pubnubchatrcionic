@@ -31,7 +31,7 @@
     "ionicons": "^5.0.0",
     "node-stun": "^0.1.2",
     "polished": "^3.5.1",
-    "pubnub": "^4.27.6",
+    "pubnub": "^7.4.0",
     "pubnub-react": "^2.0.0",
     "pubnub-redux": "0.0.9-beta",
     "react": "^16.13.0",
